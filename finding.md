@@ -17,7 +17,7 @@ With these evaluation tools in mind, there are a wide variety of OERs to explore
 
 *Lumen Learning, which links to OER frameworks, which represent entire classes: <http://www.lumenlearning.com/courses>
 
-Google can also find Creative Commons materials. Simply do a Google search on your topic, go to advanced search, and narrow the results by usage rights. Free to share, use, or modify is probably the best place to start:
+Google can also find Creative Commons materials. Simply do a Google search on your topic, go to advanced search, and narrow the results by usage rights. Free to share, use, or modify is probably the best place to start. Note: this is not a comprehensive list of CC licensed materials:
 
 ![screenshot of Google Search advanced settings](google_advanced_1.gif)
 
